@@ -1,0 +1,4 @@
+1     Tomate      43      12.54      Conserves
+2     Ananas      20      20.68      Fruits
+3     Poulet      27      8.99       Viandes
+4     Patate      100     0.990      Légumes
